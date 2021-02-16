@@ -1,5 +1,5 @@
 # Hello 👋🏾 I'm Sisan Agbeyegbe 😁
-*OPEN FOR WORK*
+##### *OPEN FOR WORK*
 I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp graduate based in the New York City Metropolitan Area. In my free time, I love to dance 💃🏾, read 📖, roller skate 🛼, and play volleyball🏐
 #### About Me 
 - 🔭 I’m currently working on building my portfolio
