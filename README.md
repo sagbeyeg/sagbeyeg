@@ -6,7 +6,7 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning algorithms and data structures
 - ⚡ Fun fact: I'm passionate about self-development and community building!
-#### 👩🏾‍💻*Open To Work*👩🏾‍💻
+👩🏾‍💻*Open To Work*👩🏾‍💻
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagbeyeg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## Connect With Me! 🤝 
