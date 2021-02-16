@@ -1,4 +1,4 @@
-### Hello 😊 I'm Sisan Agbeyegbe 👋🏾
+### Hello 😊 I'm Sisan Agbeyegbe <img src="https://raw.githubusercontent.com/sagbeyeg/sagbeyeg/master/wave.gif" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagbeyeg)](https://twitter.com/sagbeyeg)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagbeyeg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
