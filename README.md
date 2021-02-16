@@ -1,7 +1,10 @@
 # Hello 👋🏾 I'm Sisan Agbeyegbe 😁
 
-#### I'm a Software Engineer/Full Stack Web Devloper
-
+I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp graduate based in the New York City Metropolitan Area. In my free time, I love to dance 💃🏾, read 📖, roller skate 🛼, and play volleyball🏐
+#### About Me 
+- 🔭 I’m currently working on building my portfolio and the job search, feel free to contact me with leads!(wink wink nudge nudge)
+- 🌱 I’m currently learning algorithms and data structures
+- ⚡ Fun fact: I'm passionate about self-development and community building!
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagbeyeg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## Connect With Me! 🤝 
@@ -12,12 +15,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
