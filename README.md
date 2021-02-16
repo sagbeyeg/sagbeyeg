@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagbeyeg)](https://twitter.com/sagbeyeg)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagbeyeg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
 **sagbeyeg/sagbeyeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
