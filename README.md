@@ -11,13 +11,16 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 - ⚡ Fun fact: I'm passionate about self-development and community building!
 
 ## 🎨 Projects 🎨
-🛩 Traverse 🛩 Demo | Frontend Repo
-🛩 A social media and all inclusive travel booking application that takes away all the stress of planning a trip. React, Redux and Ruby on Rails
-🌬 Exhale 🌬 Demo | Frontend Repo
-🌬 a mindfulness app designed to help users find more happiness, joy and meaning in their lives through mindful living practices. 
-📔 Twumbler 📔 Demo | Frontend Repo
-📔 A private journaling application that gives a user the opportunity for emotional catharsis and regulation. vanilla Javascript & Ruby on Rails.
-🎮 B@cklg 🎮 Demo | Frontend Repo
+**Traverse** Demo | Frontend Repo
+:airplane: A social media and all inclusive travel booking application that takes away all the stress of planning a trip. React, Redux and Ruby on Rails
+
+**Exhale** Demo | Frontend Repo
+:wind: a mindfulness app designed to help users find more happiness, joy and meaning in their lives through mindful living practices. 
+
+**Twumbler** Demo | Frontend Repo
+:notebook: A private journaling application that gives a user the opportunity for emotional catharsis and regulation. vanilla Javascript & Ruby on Rails.
+
+**B@cklg** Demo | Frontend Repo
 🎮 A video game cataloging application that helps gamers perform an advanced search and track their video games. Ruby on Rails
 ## 🛠 Languages & Tools 🛠
 
