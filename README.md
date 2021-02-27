@@ -1,7 +1,4 @@
 # Hello 👋🏾 I'm Sisan! 😁
-## 🤝 Connect With Me! 🤝 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagbeyeg)](https://twitter.com/sagbeyeg)
-
 ## 💆🏾‍♀️ About Me 💆🏾‍♀️ 
 
 I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp graduate based in the New York City Metropolitan Area. In my free time, I love to dance 💃🏾, read 📖, roller skate 🛼, and play volleyball🏐
@@ -26,6 +23,9 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 **B@cklg** [Demo](https://www.youtube.com/watch?v=PlC8rifXbBU&t=2s&ab_channel=SisanwunmiAgbeyegbe) | [Repo](https://github.com/sagbeyeg/BackLg-mod2project)
 
 🎮 A video game cataloging application that helps gamers perform an advanced search and track their video games. Ruby on Rails
+
+## 🤝 Connect With Me! 🤝 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagbeyeg)](https://twitter.com/sagbeyeg)
 
 ## 🛠 Languages & Tools 🛠
 
