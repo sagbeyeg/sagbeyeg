@@ -10,6 +10,8 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 - 🌱 I’m currently learning algorithms and data structures
 - ⚡ Fun fact: I'm passionate about self-development and community building!
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagbeyeg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 ## 🛠 Languages & Tools 🛠
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -22,7 +24,6 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagbeyeg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **sagbeyeg/sagbeyeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
