@@ -1,4 +1,4 @@
-# Hello 👋🏾 I'm Sisan Agbeyegbe 😁
+# Hello 👋🏾 I'm Sisan! 😁
 ## 🤝 Connect With Me! 🤝 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagbeyeg)](https://twitter.com/sagbeyeg)
 
@@ -10,6 +10,15 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 - 🌱 I’m currently learning algorithms and data structures
 - ⚡ Fun fact: I'm passionate about self-development and community building!
 
+## 🎨 Projects 🎨
+🛩 Traverse 🛩 Demo | Frontend Repo
+🛩 A social media and all inclusive travel booking application that takes away all the stress of planning a trip. React, Redux and Ruby on Rails
+🌬 Exhale 🌬 Demo | Frontend Repo
+🌬 a mindfulness app designed to help users find more happiness, joy and meaning in their lives through mindful living practices. 
+📔 Twumbler 📔 Demo | Frontend Repo
+📔 A private journaling application that gives a user the opportunity for emotional catharsis and regulation. vanilla Javascript & Ruby on Rails.
+🎮 B@cklg 🎮 Demo | Frontend Repo
+🎮 A video game cataloging application that helps gamers perform an advanced search and track their video games. Ruby on Rails
 ## 🛠 Languages & Tools 🛠
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
