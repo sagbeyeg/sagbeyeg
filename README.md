@@ -25,7 +25,7 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 🎮 A video game cataloging application that helps gamers perform an advanced search and track their video games. Ruby on Rails
 
 ## 🤝 Connect With Me! 🤝 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagbeyeg)](https://twitter.com/sagbeyeg)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagbeyeg)](https://twitter.com/sagbeyeg)
 
 ## 🛠 Languages & Tools 🛠
 
