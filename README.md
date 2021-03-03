@@ -14,7 +14,7 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 
 **Exhale** [Demo](https://www.youtube.com/watch?v=sE8u7I8Bjrc&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/exhale-frontend)
 
-🌬 a mindfulness app designed to help users find more happiness, joy and meaning in their lives through mindful living practices. 
+🌬 A mindfulness app designed to help users find more happiness, joy and meaning in their lives through mindful living practices. 
 
 **Twumbler** [Demo](https://www.youtube.com/watch?v=gLUdybWL2d4&t=2s&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/Twumbler-frontend)
 
