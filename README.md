@@ -10,19 +10,19 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 ## 🎨 Projects 🎨
 **Traverse** [Demo](https://www.youtube.com/watch?v=Q6ZtHRiRXZ8&t=1s&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/traverse-frontend)
 
-:airplane: Social media and all inclusive travel booking application that takes away all the stress of planning a trip. React, Redux and Ruby on Rails
+:airplane: Social media and all inclusive travel booking application that takes away all the stress of planning a trip. BUilt with React, Redux & Ruby on Rails
 
 **Exhale** [Demo](https://www.youtube.com/watch?v=sE8u7I8Bjrc&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/exhale-frontend)
 
-🌬 Mindfulness application designed to help users find more happiness, joy and meaning in their lives through mindful living practices. 
+🌬 Mindfulness application designed to help users find more happiness, joy and meaning in their lives through mindful living practices. Built with React & Ruby on Rails.
 
 **Twumbler** [Demo](https://www.youtube.com/watch?v=gLUdybWL2d4&t=2s&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/Twumbler-frontend)
 
-📔 Private journaling application that gives a user the opportunity for emotional catharsis and regulation. vanilla Javascript & Ruby on Rails.
+📔 Private journaling application that gives a user the opportunity for emotional catharsis and regulation. Built with vanilla Javascript & Ruby on Rails.
 
 **B@cklg** [Demo](https://www.youtube.com/watch?v=PlC8rifXbBU&t=2s&ab_channel=SisanwunmiAgbeyegbe) | [Repo](https://github.com/sagbeyeg/BackLg-mod2project)
 
-🎮 Video game cataloging application that helps gamers perform an advanced search and track their video games. Ruby on Rails
+🎮 Video game cataloging application that helps gamers perform an advanced search and track their video games. Built with Ruby on Rails.
 
 ## 🤝 Connect With Me! 🤝 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)](https://www.linkedin.com/in/sisanwunmi-agbeyegbe/)
