@@ -10,7 +10,7 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 ## 🎨 Projects 🎨
 **Traverse** [Demo](https://www.youtube.com/watch?v=Q6ZtHRiRXZ8&t=1s&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/traverse-frontend)
 
-:airplane: Social media and all inclusive travel booking application that takes away all the stress of planning a trip. BUilt with React, Redux & Ruby on Rails
+:airplane: Social media and all inclusive travel booking application that takes away all the stress of planning a trip. Built with React, Redux & Ruby on Rails
 
 **Exhale** [Demo](https://www.youtube.com/watch?v=sE8u7I8Bjrc&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/exhale-frontend)
 
