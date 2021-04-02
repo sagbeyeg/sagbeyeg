@@ -18,7 +18,7 @@ I'm a Software Engineer/Full Stack Web Devloper and Flatiron School SE bootcamp 
 
 **Twumbler** [Demo](https://www.youtube.com/watch?v=gLUdybWL2d4&t=2s&ab_channel=SisanwunmiAgbeyegbe) | [Frontend Repo](https://github.com/sagbeyeg/Twumbler-frontend)
 
-📔 Private journaling application that gives a user the opportunity for emotional catharsis and regulation. Built with vanilla Javascript & Ruby on Rails.
+📔 Private journaling application that gives users the opportunity for emotional catharsis and regulation. Built with vanilla Javascript & Ruby on Rails.
 
 **B@cklg** [Demo](https://www.youtube.com/watch?v=PlC8rifXbBU&t=2s&ab_channel=SisanwunmiAgbeyegbe) | [Repo](https://github.com/sagbeyeg/BackLg-mod2project)
 
